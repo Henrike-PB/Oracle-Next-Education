@@ -65,6 +65,8 @@ function limparLista() {
   const lista = document.getElementById("lista-amigos");
   lista.innerHTML = "";
 
+
+  
   // Limpa o resultado do sorteio
   const resultado = document.getElementById("resultado");
   if (resultado) {
