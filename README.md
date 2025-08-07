@@ -1,6 +1,14 @@
 # ONE - Oracle Next Education
 
-![logo](https://www.oracle.com/a/ocom/img/rh03-one-br-logo.png)
+<!-- Imagem do logo com fundo branco e tamanho controlado -->
+<div style="background-color: white; display: inline-block; padding: 10px; border-radius: 8px;">
+  <img 
+    src="https://www.oracle.com/a/ocom/img/rh03-one-br-logo.png" 
+    alt="Logo ONE" 
+    style="height: 80px; width: auto; display: block;"
+  >
+</div>
+
 
 ## Sobre o Programa ONE
 
@@ -55,7 +63,14 @@ Este repositório serve para:
 
 À medida que os desafios forem sendo concluídos e as respectivas badges (medalhas) forem disponibilizadas pela plataforma do ONE, elas serão adicionadas aqui para registrar as conquistas e representar o progresso na jornada.
 
-- ![Badge de Conclusão do Primeiro Challenge](link-exemplo-da-badge1.png)
+<p align="left">
+  <img 
+    src="https://henrike-pb.github.io/Oracle-Next-Education/badges/badge_1.png" 
+    alt="Badge de Conclusão do Primeiro Challenge" 
+    style="height: 100px; width: auto; margin-right: 8px;"
+  >
+  <!-- Insira outras badges aqui conforme forem obtidas -->
+</p>
 
 ---
 
@@ -83,9 +98,10 @@ Este repositório serve para:
 
 ## Contato
 
-- Nome: Henrike Pajares Braga
+- Nome: Henrike Pajares Braga  
 - [LinkedIn](https://www.linkedin.com/in/henrikebraga/)
 
 ---
 
 Este repositório representa minha trajetória no programa **Oracle Next Education (ONE)**, mostrando os progressos, aprendizados e desafios vencidos na área de tecnologia.
+
