@@ -125,6 +125,26 @@ button {
     background-color: #a1a1a1;
 }
 
+/* Botão de limpar lista */
+.button-clear {
+    padding: 15px 30px;
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    border: 2px solid #000;
+    border-radius: 25px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    cursor: pointer;
+
+    background-color: #ff4d4d; /* tom vermelho para destacar */
+    color: var(--color-white);
+    transition: background-color 0.3s ease;
+}
+
+.button-clear:hover {
+    background-color: #e03d3d; /* tom vermelho mais escuro no hover */
+}
+
+
 /* Listas */
 ul {
     list-style-type: none;
